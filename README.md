@@ -15,3 +15,6 @@ I chose to create a clock application that changes depending on the selected tim
 - with these new hooks, there is no longer any need to use the class syntax
 - meaning that all components can be pure functions... reliable, predictable and easy to test
 - I also used Styled-Components, because they are just awesome!
+npm install
+npm start
+Bob's your uncle!
